@@ -194,7 +194,7 @@ Publish the website in the LocalHost.
 
     <footer class="bg-dark text-white py-4">
         <div class="container text-center">
-            <p>Designed by Dharini</p>
+            <p>Designed by ARUL KUMARAN S A</p>
         </div>
     </footer>
 </body>
